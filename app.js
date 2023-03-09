@@ -1,6 +1,6 @@
 const btn1 = document.querySelector('#btn1')
 const btn2 = document.querySelector('#btn2')
-const ifr = document.querySelector('#ifr')
+const ifr = document.querySelector('.ifr')
 
 close(ifr)
 btn1.addEventListener('click',opena)
