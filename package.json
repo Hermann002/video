@@ -1,4 +1,4 @@
 {
-title : "Boutique1",
-link : "https://digipluscamera-frct1.streaming.media.azure.net/b3b87cfd-e9af-4ac1-832f-2613beffdfb0/27667d8f-92f0-42c4-8fc1-b4441337bce1.ism/manifest(format=m3u8-cmaf)",
+"title" : "Boutique1",
+"link" : "https://digipluscamera-frct1.streaming.media.azure.net/b3b87cfd-e9af-4ac1-832f-2613beffdfb0/27667d8f-92f0-42c4-8fc1-b4441337bce1.ism/manifest(format=m3u8-cmaf)",
 }
